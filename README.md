@@ -1,4 +1,4 @@
-# IMC Prosperity 2 Visualizer
+# Visualizer
 
 [![Build Status](https://github.com/jmerle/imc-prosperity-2-visualizer/workflows/Build/badge.svg)](https://github.com/jmerle/imc-prosperity-2-visualizer/actions/workflows/build.yml)
 
